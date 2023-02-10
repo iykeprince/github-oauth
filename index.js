@@ -1,8 +1,8 @@
 const express = require('express')
 const axios = require('axios')
 
-const clientID = '3929935ebfcbc7d79f32'
-const clientSecret = '2d5f667a8c36217c7b9c1329e0d115c473f9ab55'
+const clientID = 'xxxxxxxxxx'
+const clientSecret = 'xxxxxxxxxxx'
 
 const app = express();
 
